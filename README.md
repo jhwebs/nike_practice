@@ -26,4 +26,4 @@
 [배포 홈페이지](https://jhwebs.github.io/nike_practice/)
 
 
-[공식 홈페이지 참고](https://www.nike.com/kr/?utm_source=Naver&utm_medium=PS&utm_campaign=365DIGITAL_NaverBrand_Main_pc&utm_term=homelink_LLM_PC240523&cp=63846530691_search_)
+
